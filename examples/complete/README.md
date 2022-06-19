@@ -41,5 +41,5 @@ No inputs.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_ecs_profile"></a> [ecs\_profile](#output\_ecs\_profile) | ############################################################################### OUTPUTS ############################################################################### |
+| <a name="output_ecs_profile"></a> [ecs\_profile](#output\_ecs\_profile) | Profile ARN, profile ID and role ID |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->

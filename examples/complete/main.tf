@@ -25,5 +25,6 @@ module "ecs-instance-profile" {
 # OUTPUTS
 ################################################################################
 output "ecs_profile" {
-  value = { for k, v in module.ecs-instance-profile : k => v }
+  value       = { for k, v in module.ecs-instance-profile : k => v }
+  description = "Profile ARN, profile ID and role ID"
 }
