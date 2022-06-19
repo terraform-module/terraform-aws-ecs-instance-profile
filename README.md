@@ -42,9 +42,15 @@ See `examples` directory for working examples to reference:
 ```hcl
 module "ecs-instance-profile" {
   source  = "terraform-module/ecs-instance-profile/aws"
-  version = "0.1.0"
+  version = "~> 1"
 }
 ```
+
+## Examples
+
+See `examples` directory for working examples to reference
+
+- [Complete ECS](https://github.com/terraform-module/terraform-aws-ecs-instance-profile/tree/master/examples)
 
 ## Assumptions
 
