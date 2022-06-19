@@ -40,9 +40,9 @@ IMPORTANT: The master branch is used in source just as an example. In your code,
 See `examples` directory for working examples to reference:
 
 ```hcl
-module "blueprint" {
-  source  = "terraform-module/blueprint"
-  version = "0.0.0"
+module "ecs-instance-profile" {
+  source  = "terraform-module/ecs-instance-profile/aws"
+  version = "0.1.0"
 }
 ```
 
@@ -121,7 +121,7 @@ Currently maintained by [Ivan Katliarchuk](https://github.com/ivankatliarchuk) a
 
 ## Terraform Registry
 
-- [Module](https://registry.terraform.io/modules/terraform-module/todo/aws)
+- [Module](https://registry.terraform.io/modules/terraform-module/ecs-instance-profile/aws/)
 
 ## Resources
 
