@@ -4,23 +4,23 @@ Terraform module blueprint
 
 ---
 
-![](https://github.com/terraform-module/terraform-module-blueprint/workflows/release/badge.svg)
-![](https://github.com/terraform-module/terraform-module-blueprint/workflows/commit-check/badge.svg)
-![](https://github.com/terraform-module/terraform-module-blueprint/workflows/labeler/badge.svg)
+![](https://github.com/terraform-module/terraform-aws-ecs-instance-profile/workflows/release/badge.svg)
+![](https://github.com/terraform-module/terraform-aws-ecs-instance-profile/workflows/commit-check/badge.svg)
+![](https://github.com/terraform-module/terraform-aws-ecs-instance-profile/workflows/labeler/badge.svg)
 
-[![](https://img.shields.io/github/license/terraform-module/terraform-module-blueprint)](https://github.com/terraform-module/terraform-module-blueprint)
-![](https://img.shields.io/github/v/tag/terraform-module/terraform-module-blueprint)
-![](https://img.shields.io/issues/github/terraform-module/terraform-module-blueprint)
-![](https://img.shields.io/github/issues/terraform-module/terraform-module-blueprint)
-![](https://img.shields.io/github/issues-closed/terraform-module/terraform-module-blueprint)
-[![](https://img.shields.io/github/languages/code-size/terraform-module/terraform-module-blueprint)](https://github.com/terraform-module/terraform-module-blueprint)
-[![](https://img.shields.io/github/repo-size/terraform-module/terraform-module-blueprint)](https://github.com/terraform-module/terraform-module-blueprint)
-![](https://img.shields.io/github/languages/top/terraform-module/terraform-module-blueprint?color=green&logo=terraform&logoColor=blue)
-![](https://img.shields.io/github/commit-activity/m/terraform-module/terraform-module-blueprint)
-![](https://img.shields.io/github/contributors/terraform-module/terraform-module-blueprint)
-![](https://img.shields.io/github/last-commit/terraform-module/terraform-module-blueprint)
-[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/terraform-module/terraform-module-blueprint/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/terraform-module/terraform-module-blueprint.svg?style=social&label=Fork)](https://github.com/terraform-module/terraform-module-blueprint)
+[![](https://img.shields.io/github/license/terraform-module/terraform-aws-ecs-instance-profile)](https://github.com/terraform-module/terraform-aws-ecs-instance-profile)
+![](https://img.shields.io/github/v/tag/terraform-module/terraform-aws-ecs-instance-profile)
+![](https://img.shields.io/issues/github/terraform-module/terraform-aws-ecs-instance-profile)
+![](https://img.shields.io/github/issues/terraform-module/terraform-aws-ecs-instance-profile)
+![](https://img.shields.io/github/issues-closed/terraform-module/terraform-aws-ecs-instance-profile)
+[![](https://img.shields.io/github/languages/code-size/terraform-module/terraform-aws-ecs-instance-profile)](https://github.com/terraform-module/terraform-aws-ecs-instance-profile)
+[![](https://img.shields.io/github/repo-size/terraform-module/terraform-aws-ecs-instance-profile)](https://github.com/terraform-module/terraform-aws-ecs-instance-profile)
+![](https://img.shields.io/github/languages/top/terraform-module/terraform-aws-ecs-instance-profile?color=green&logo=terraform&logoColor=blue)
+![](https://img.shields.io/github/commit-activity/m/terraform-module/terraform-aws-ecs-instance-profile)
+![](https://img.shields.io/github/contributors/terraform-module/terraform-aws-ecs-instance-profile)
+![](https://img.shields.io/github/last-commit/terraform-module/terraform-aws-ecs-instance-profile)
+[![Maintenance](https://img.shields.io/badge/Maintenu%3F-oui-green.svg)](https://GitHub.com/terraform-module/terraform-aws-ecs-instance-profile/graphs/commit-activity)
+[![GitHub forks](https://img.shields.io/github/forks/terraform-module/terraform-aws-ecs-instance-profile.svg?style=social&label=Fork)](https://github.com/terraform-module/terraform-aws-ecs-instance-profile)
 
 ---
 
@@ -30,7 +30,7 @@ Terraform module blueprint
 
 ## Usage example
 
-IMPORTANT: The master branch is used in source just as an example. In your code, do not pin to master because there may be breaking changes between releases. Instead pin to the release tag (e.g. ?ref=tags/x.y.z) of one of our [latest releases](https://github.com/terraform-module/terraform-module-blueprint/releases).
+IMPORTANT: The master branch is used in source just as an example. In your code, do not pin to master because there may be breaking changes between releases. Instead pin to the release tag (e.g. ?ref=tags/x.y.z) of one of our [latest releases](https://github.com/terraform-module/terraform-aws-ecs-instance-profile/releases).
 
 See `examples` directory for working examples to reference:
 
@@ -97,7 +97,7 @@ Submit a pull request
 
 # Authors
 
-Currently maintained by [Ivan Katliarchuk](https://github.com/ivankatliarchuk) and these [awesome contributors](https://github.com/terraform-module/terraform-module-blueprint/graphs/contributors).
+Currently maintained by [Ivan Katliarchuk](https://github.com/ivankatliarchuk) and these [awesome contributors](https://github.com/terraform-module/terraform-aws-ecs-instance-profile/graphs/contributors).
 
 [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
@@ -114,4 +114,4 @@ Currently maintained by [Ivan Katliarchuk](https://github.com/ivankatliarchuk) a
 [**Create a repository using this template →**][template.generate]
 
 <!-- resources -->
-[template.generate]: https://github.com/terraform-module/terraform-module-blueprint/generate
+[template.generate]: https://github.com/terraform-module/terraform-aws-ecs-instance-profile/generate

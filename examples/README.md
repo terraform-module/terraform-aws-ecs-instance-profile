@@ -6,6 +6,3 @@ These serve a few purposes:
 2.  Serves as the test infrastructure for CI on the project.
 3.  Provides a simple way to play with the Kubernetes cluster you create.
 
-## IAM Permissions
-
-You can see the minimum IAM Permissions required (WORK in PROGRESS)
